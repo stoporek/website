@@ -20,11 +20,10 @@ publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
 slides: null
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Toporek, S. M., Branham, S. E., Katawczik, M. L., Keinath, A. P., and Patrick Wechter, W. 2021. QTL mapping of resistance to Pseudoperonospora cubensis clade 1, mating type A2, in Cucumis melo. Theor Appl Genet. 134:2577–2586.
 tags:
 - Source Themes
-title: An example journal article
+title: QTL mapping of resistance to Pseudoperonospora cubensis clade 1, mating type A2, in Cucumis melo
 url_code: ""
 url_dataset: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
