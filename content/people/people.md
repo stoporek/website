@@ -13,7 +13,7 @@ design:
   show_social: true
 headless: true
 subtitle: null
-title: Meet the Team
+title: Lab Members
 weight: 68
 widget: people
 ---
