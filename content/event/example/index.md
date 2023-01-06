@@ -4,7 +4,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
   eu, pulvinar tempor diam.
 address:
-  city: Stanford
+  city: Bergen
   country: United States
   postcode: "94305"
   region: CA
@@ -17,7 +17,7 @@ event: Wowchemy Conference
 event_url: https://example.org
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**]'
   focal_point: Right
 location: Wowchemy HQ
 projects: null

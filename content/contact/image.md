@@ -1,7 +1,7 @@
 ---
-advanced:
+#advanced:
   css_class: fullscreen
-design:
+#design:
   background:
     image: contact.jpg
     image_darken: 0

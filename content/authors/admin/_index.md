@@ -1,27 +1,27 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: My research interests include ...
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Plant Pathology
+    institution: Clemson University
+    year: 2022
+  - course: MS in Plant Pathology
+    institution: Clemson university
+    year: 2020
+  - course: BSc in Agroecology
+    institution: Iowa State University
+    year: 2013
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Plant Pathology
+- Genomics
+- Population Genetics
 organizations:
-- name: Stanford University
+- name: South Dakota State University
   url: ""
-role: Professor of Artificial Intelligence
+role: Principal Investigator
 social:
 - icon: envelope
   icon_pack: fas
@@ -36,11 +36,9 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: true
-title: Nelson Bighetti
+title: Sean Toporek
 user_groups:
-- Researchers
+- Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Sean Toporek is a professor of Plant Pathology at the SDSU. His research interests include ...
