@@ -6,7 +6,7 @@ content:
     background:
       brightness: 0.7
       color: '#666'
-      media: coders.jpg
+      media: peaches.jpeg
       position: right
     content: Take a look at what we're working on...
     title: "\U0001F44B Welcome to the group"

@@ -1,16 +1,10 @@
 ---
 abstract: Pseudoperonospora cubensis, causal organism of cucurbit downy mildew (CDM), is one of the largest threats to cucurbit production in the eastern USA. Currently, no Cucumis melo (melon) cultivars have significant levels of resistance. Additionally, little is understood about the genetic basis of resistance in C. melo. Recombinant inbred lines (RILs; N = 169) generated from a cross between the resistant melon breeding line MR-1 and susceptible cultivar Ananas Yok’neam were phenotyped for CDM resistance in both greenhouse and growth chamber studies. A high-density genetic linkage map with 5,663 binned SNPs created from the RIL population was utilized for QTL mapping. Nine QTLs, including two major QTLs, were associated with CDM resistance. Of the major QTLs, qPcub-10.1 was stable across growth chamber and greenhouse tests, whereas qPcub-8.2 was detected only in growth chamber tests. qPcub-10.1 co-located with an MLO-like protein coding gene, which has been shown to confer resistance to powdery mildew and Phytophthora in other plants. This is the first screening of C. melo germplasm with a genetically characterized P. cubensis isolate.
-author_notes:
-- Equal contribution
-- Equal contribution
-authors:
-- admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
+date: "2021-08-01T00:00:00Z"
 doi: "10.1007/s00122-021-03843-w"
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 projects: []
@@ -34,8 +28,4 @@ url_source: ""
 url_video: ""
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
