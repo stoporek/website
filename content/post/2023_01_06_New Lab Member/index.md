@@ -1,5 +1,5 @@
 ---
-date: "2022-06-01"
+date: "2022-01-06"
 image: 
   focal_point: top
 title: First new lab member. 
