@@ -9,28 +9,28 @@ content:
       media: peaches.jpeg
       position: right
     content: Take a look at what we're working on...
-    title: "\U0001F44B Welcome to the group"
+    title: "\U0001F44B Welcome"
   - align: left
     background:
       brightness: 0.7
       color: '#555'
-      media: contact.jpg
+      media: CPM.jpg
       position: center
-    content: Share your knowledge with the group and explore exciting new topics together!
-    title: Lunch & Learn ☕️
+    content: Distribution and genetics
+    title: Cucurbit Powdery Mildew
   - align: right
     background:
       brightness: 0.5
       color: '#333'
-      media: welcome.jpg
+      media: blackrot.jpg
       position: center
-    content: Just opened last month!
+    content: Fungicide Resistance
     link:
       icon: graduation-cap
       icon_pack: fas
       text: Join Us
       url: ../contact/
-    title: World-Class Semiconductor Lab
+    title: Black Rot
 design:
   interval: 2000
   is_fullscreen: true

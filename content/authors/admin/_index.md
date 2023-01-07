@@ -38,7 +38,7 @@ social:
 superuser: true
 title: Sean Toporek
 user_groups:
-- Principal Investigators
+- Principal Investigator
 ---
 
 Sean Toporek is a professor of Plant Pathology at the SDSU. His research interests include ...

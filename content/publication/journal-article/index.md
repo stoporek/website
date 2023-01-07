@@ -20,7 +20,7 @@ tags:
 title: QTL mapping of resistance to Pseudoperonospora cubensis clade 1, mating type A2, in Cucumis melo
 url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 
 url_poster: ""
 url_project: ""
 url_slides: ""

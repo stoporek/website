@@ -16,13 +16,13 @@ education:
     year: 2008
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Woof
+- Ruff
+- Grrr
 organizations:
 - name: Stanford University
   url: ""
-role: Professor of Artificial Intelligence
+role: Bioinformatics Specialist
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,5 +42,5 @@ user_groups:
 - Grad Students
 ---
 
-Willow is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Willow chews bones and crunches numbers.
 
