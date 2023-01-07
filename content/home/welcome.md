@@ -14,4 +14,4 @@ widget: hero
 
 <br>
 
-We blend **applied plant patholgy** research with **genetics** and **genomics** to better understand South Dakota's specialty crop disease issues. 
+We blend **applied plant patholgy** research with **genetics** and **genomics** to better understand South Dakota's specialty crop disease issues.
