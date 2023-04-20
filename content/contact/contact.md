@@ -16,7 +16,7 @@ content:
   email: sean.toporek@sdstate.edu
   form:
     formspree:
-      id: null
+      id: sean.toporek@sdstate.edu
     netlify:
       captcha: false
     provider: netlify
