@@ -32,6 +32,7 @@ title: Contact
 weight: 10
 widget: contact
 ---
+For general inquiries, reach out here!
 
-Interested in joining the Toporek Lab? 
-Send a single pdf of a CV, a summary of relevant experience and career goals, and contact details of three references to Dr. Sean Toporek.
+Interested in joining the Lab?
+Attach a single pdf of a CV, a summary of relevant experience and career goals, and contact details of three references.
