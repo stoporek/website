@@ -18,7 +18,7 @@ content:
       position: center
     content: Funding - South Dakota Specialty Crop Block Grant
     title: South Dakota Cucurbit Foliar Disease Survey
-  - align: right
+ # - align: right
     background:
       brightness: 0.5
       color: '#333'
