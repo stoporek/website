@@ -40,4 +40,4 @@ user_groups:
 - Principal Investigator
 ---
 
-Sean Toporek is a professor of Plant Pathology at the SDSU. His research interests include ...
+Sean Toporek is an assistant professor of Specialty Crops Plant Pathology at SDState.
