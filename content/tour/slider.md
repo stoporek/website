@@ -6,7 +6,7 @@ content:
     background:
       brightness: 0.7
       color: '#666'
-      media: peaches.jpeg
+      media: CDMleaves.jpg
       position: right
     content: Take a look at what we're working on...
     title: "\U0001F44B Welcome"
