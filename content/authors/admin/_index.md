@@ -42,4 +42,4 @@ user_groups:
 - Principal Investigator
 ---
 
-Sean Toporek is an assistant professor of Specialty Crops Plant Pathology at SDState.
+Sean Toporek is an assistant professor of specialty crops plant pathology at SDState.
