@@ -14,10 +14,10 @@ content:
     background:
       brightness: 0.7
       color: '#555'
-      media: CPM.jpg
+      media: diseasedleaf.jpg
       position: center
-    content: Distribution and genetics
-    title: Cucurbit Powdery Mildew
+    content: Funding - South Dakota Specialty Crop Block Grant
+    title: South Dakota Cucurbit Foliar Disease Survey
   - align: right
     background:
       brightness: 0.5
