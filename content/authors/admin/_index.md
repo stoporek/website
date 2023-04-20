@@ -1,6 +1,5 @@
 ---
-bio: My research interests include ...
-  matter.
+bio: Plant pathogen enjoyer.
 education:
   courses:
   - course: PhD in Plant Pathology
