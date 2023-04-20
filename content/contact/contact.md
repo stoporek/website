@@ -13,7 +13,7 @@ content:
     latitude: "44.31808331957981"
     longitude: "-96.78800941058411"
 #  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  email: test@example.org
+  email: sean.toporek@sdstate.edu
   form:
     formspree:
       id: null
@@ -23,7 +23,7 @@ content:
 #  office_hours:
 #  - Monday 10:00 to 13:00
 #  - Wednesday 09:00 to 10:00
-  phone: 888 888 88 88
+#  phone: 888 888 88 88
 design:
   columns: "1"
 headless: true
@@ -33,4 +33,5 @@ weight: 10
 widget: contact
 ---
 
-Reach out here
+Interested in joining the Toporek Lab? 
+Send a single pdf of a CV, a summary of relevant experience and career goals, and contact details of three references to Dr. Sean Toporek.
