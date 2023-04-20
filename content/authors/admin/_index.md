@@ -14,9 +14,11 @@ education:
 email: ""
 highlight_name: false
 interests:
-- Plant Pathology
-- Genomics
+- Applied Plant Pathology
 - Population Genetics
+- Microbial Ecology
+- Systematics
+- Genomics
 organizations:
 - name: South Dakota State University
   url: ""
