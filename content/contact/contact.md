@@ -7,7 +7,7 @@ content:
     postcode: "57006"
     region: SD
     street: 
-appointment_url: https://calendly.com
+# appointment_url: https://calendly.com
   autolink: true
   coordinates:
     latitude: "44.31808331957981"
