@@ -5,9 +5,9 @@ image:
 title: Toporek Lab Awarded South Dakota Specialty Crop Block Grant. 
 ---
 
-This outh Dakota Specialty Crop Block Grant will be used to higher a masters student to conduct a survey of foliar cucurbit diseases in South Dakota.
+This South Dakota Specialty Crop Block Grant will be used to higher a masters student to conduct a survey of foliar cucurbit diseases in South Dakota.
 
 <!--more-->
 
-Woo!
+A foliar disease survey will be conducted during the 2023, 2024, and 2025 growing seasons. 
 
